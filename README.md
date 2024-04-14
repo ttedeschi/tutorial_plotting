@@ -4,4 +4,4 @@ This tutorial covers the main recommendations to produce production-ready CMS pl
 - [The second](2-tutorial_CAT_ratioplot.ipynb) which shows an advanced example.
 
 You can run this tutorial directly on Binder by clicking on the following widget.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ttedeschi/tutorial_CAT/HEAD?labpath=tutorial_CAT.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ttedeschi/tutorial_plotting/HEAD?labpath=1-tutorial_CAT_recommendations.ipynb)
